@@ -5,7 +5,7 @@ Tic-tac-toe  noughts and crosses  or Xs and Os  is a paper-and-pencil game for t
 
 Approach used:
 
-A 3x3 matrix is used to represent position of 'x' or '0' filled by players one by one.
+A 3x3 matrix is used to represent position of 'X' or '0' filled by players one by one. Player1 will use 'x' and player2 will use '0'.
 Each position of the matrix is represented by 1 to 9 char digit. i.e position (0,0) is 1, position(0,1) is 2 and so on.
 Position can be filled by player when it is empty i.e niether 'x' nor '0' is present at that position.
 The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner and game stops.
